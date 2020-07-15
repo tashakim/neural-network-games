@@ -2,5 +2,5 @@
 A collection of game-beating neural networks
 
 ## Current collection
-Flappy bird
-Doodle jump
+1. Flappy bird
+2. Doodle jump
