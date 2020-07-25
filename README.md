@@ -30,10 +30,9 @@ To contribute to Neural_Networks_exp, follow these steps:
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## Contributors
-Thanks to the following people who have contributed to this project:
 
-* [@tashakim](https://github.com/tashakim) 📖
-* [@chaixinzhe2000](https://github.com/chaixinzhe2000) 🐛
+* [@tashakim](https://github.com/tashakim) 
+* [@chaixinzhe2000](https://github.com/chaixinzhe2000) 
 
 ## Contact
 
