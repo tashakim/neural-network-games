@@ -40,5 +40,5 @@ If you wish to contact us you can reach us at <jae_young_kim@brown.edu> and <xin
 
 ## License
 
-This project uses the following license: [<MIT>](<link>).
+This project uses the following license: MIT License
 
