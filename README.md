@@ -31,8 +31,8 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## Contributors
 
-* [@tashakim](https://github.com/tashakim) 
-* [@chaixinzhe2000](https://github.com/chaixinzhe2000) 
+* [@tashakim](https://github.com/tashakim) 📖
+* [@chaixinzhe2000](https://github.com/chaixinzhe2000) 🐛
 
 ## Contact
 
