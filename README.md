@@ -1,7 +1,7 @@
 # Neural_Networks_exp
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Coriander-Analytics/Movement-estimation)
-![GitHub contributors](https://img.shields.io/github/contributors/Coriander-Analytics/Movement-estimation)
+![GitHub repo size](https://img.shields.io/github/repo-size/tashakim/Neural_Networks_exp)
+![GitHub contributors](https://img.shields.io/github/contributors/tashakim/Neural_Networks_exp)
 ![GitHub stars](https://img.shields.io/github/stars/Coriander-Analytics/Movement-estimation?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Coriander-Analytics/Movement-estimation?style=social)
 
