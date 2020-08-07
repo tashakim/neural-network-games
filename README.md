@@ -2,8 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/tashakim/Neural_Networks_exp)
 ![GitHub contributors](https://img.shields.io/github/contributors/tashakim/Neural_Networks_exp)
-![GitHub stars](https://img.shields.io/github/stars/Coriander-Analytics/Movement-estimation?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Coriander-Analytics/Movement-estimation?style=social)
+![GitHub stars](https://img.shields.io/github/stars/tashakim/Neural_Networks_exp?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tashakim/Neural_Networks_exp?style=social)
 
 Our collection of `game-beating neural networks` trains simple `game characters` to evolve over generations, to eventually beat the game.
 
