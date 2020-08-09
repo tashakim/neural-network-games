@@ -1,9 +1,9 @@
-# Neural_Networks_exp
+# Neural-networks-games
 
-![GitHub repo size](https://img.shields.io/github/repo-size/tashakim/Neural_Networks_exp)
-![GitHub contributors](https://img.shields.io/github/contributors/tashakim/Neural_Networks_exp)
-![GitHub stars](https://img.shields.io/github/stars/tashakim/Neural_Networks_exp?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tashakim/Neural_Networks_exp?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/tashakim/Neural-networks-games)
+![GitHub contributors](https://img.shields.io/github/contributors/tashakim/Neural-networks-games)
+![GitHub stars](https://img.shields.io/github/stars/tashakim/Neural-networks-games?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tashakim/Neural-networks-games?style=social)
 
 Our collection of `game-beating neural networks` trains simple `game characters` to evolve over generations, to eventually beat the game.
 
@@ -18,7 +18,7 @@ JavaFX
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-## Contributing to Neural_Networks_exp
+## Contributing to Neural-networks-games
 To contribute to Neural_Networks_exp, follow these steps:
 
 1. Fork this repository.
